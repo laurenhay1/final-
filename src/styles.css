@@ -47,14 +47,14 @@ a {
   text-decoration: none;
 }
 
-a:hover {
+a: :hover {
   opacity: 0.8;
 }
 
 /* Input */
 
 input {
-  font-size: 14px;
+  font-size: 22px;
   border-radius: 2px;
   padding: 8px;
   margin-bottom: 16px;
